@@ -2,7 +2,7 @@
  /* jQuery Pre loader
   -----------------------------------------------*/
 $(window).load(function(){
-    $('.preloader').fadeOut(1000); // set duration in brackets    
+    $('.preloader').fadeOut(1000); // set duration in brackets
 });
 
 
@@ -33,9 +33,9 @@ $(document).ready(function() {
   $(function() {
     $('body').vegas({
         slides: [
-            { src: 'images/slide-img1.jpg' },
-            { src: 'images/slide-img2.jpg' },
-            { src: 'images/slide-img3.jpg' }
+            { src: 'images/slide-1.jpg' },
+            { src: 'images/slide-2.jpg' },
+            { src: 'images/slide-3.jpg' }
         ],
         timer: false,
         transition: [ 'zoomIn', ],
@@ -58,7 +58,7 @@ $(document).ready(function() {
           itemsMobile : [479,1],
       });
     });
-    
+
 
     /* Back to Top
     -----------------------------------------------*/
@@ -68,7 +68,7 @@ $(document).ready(function() {
             } else {
                 $('.go-top').fadeOut(200);
            }
-        });   
+        });
           // Animate the scroll to top
         $('.go-top').click(function(event) {
           event.preventDefault();

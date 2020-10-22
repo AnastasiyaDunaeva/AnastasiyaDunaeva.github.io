@@ -149,7 +149,7 @@ a:hover, a:active, a:focus {
 }
 
 .overlay {
-  background: #304352;
+  background: #1b292b;
   opacity: 0.9;
   position: absolute;
   width: 100%;
@@ -467,6 +467,7 @@ a:hover, a:active, a:focus {
 .about-skills-flex-col {
 margin-right: 10vw;
 }
+
 
 /*---------------------------------------
     Galllery section
