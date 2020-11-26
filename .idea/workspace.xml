@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb31fad1-48b6-46ae-8648-fc45eea78873" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/erarta/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/slide-img1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/slide-img2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/slide-img3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/team-img1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/team-img2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/team-img3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/team-img4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/team-img5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/team-img6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/team-img7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/team-img8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/custom.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +21,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PokemonDesk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -66,6 +53,8 @@
       <workItem from="1606212506626" duration="1791000" />
       <workItem from="1606214369460" duration="1005000" />
       <workItem from="1606234333997" duration="452000" />
+      <workItem from="1606379791882" duration="1460000" />
+      <workItem from="1606398206662" duration="171000" />
     </task>
     <servers />
   </component>
